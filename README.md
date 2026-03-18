@@ -57,9 +57,9 @@ Currently based in **Vienna, Austria**, I'm actively seeking my first role in **
 ## Featured projects
 
 ### 🔗 [Salonga Restaurant](https://github.com/Freddyro88/salonga-wien)
-> Short one-line description of what it does and what problem it solves.
+> Salonga Wien is a modern web application created for Salonga Peruvian Bar in Vienna. The project combines a customer-facing website with an admin dashboard, allowing the business to present its brand, menu, and services while also managing internal operations efficiently. Built with Angular and integrated with Firebase services such as Firestore and Storage, the platform includes features like real-time reservation management, menu editing, and image uploads. Its goal is to deliver a smooth digital experience for both customers and administrators through a clean, responsive, and functional interface.
 
-Built with: `React` `Node.js` `MongoDB`  
+Built with: `Angular` `TypeScript` `Firebase Firestore` `Firebase Storage` `HTML5` `CSS3` `Angular CLI`  
 [Live demo →](https://your-live-link.com)
 
 ---
