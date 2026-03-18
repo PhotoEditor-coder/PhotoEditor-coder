@@ -56,7 +56,7 @@ Currently based in **Vienna, Austria**, I'm actively seeking my first role in **
 
 ## Featured projects
 
-### 🔗 [Project Name 1](https://github.com/PhotoEditor-coder/YOUR-REPO)
+### 🔗 [Salonga Restaurant](https://github.com/Freddyro88/salonga-wien)
 > Short one-line description of what it does and what problem it solves.
 
 Built with: `React` `Node.js` `MongoDB`  
